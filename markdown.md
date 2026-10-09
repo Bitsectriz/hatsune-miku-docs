@@ -38,7 +38,7 @@ print(color)
 
 Esta imagen se encuentra guardada en la carpeta `assets` del repositorio.
 
-![Hatsune Miku](assets/miku.png)
+![Miku](assets/miku.jpg)
 
 ## Imagen externa de Wikimedia Commons
 
